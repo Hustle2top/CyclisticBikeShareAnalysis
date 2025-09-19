@@ -23,7 +23,7 @@ In the initial data preparation phase, I performed below steps:
 4. Checked column names and their datatypes. Changed datatype for tripduration column to integer.
 5. Checked summary statistics for all columns to get Min, Max, Mean, Median etc.
 6. Checked for duplicate values, inconsistent values, missing/NA values and filtered them.
-7. Finally, saved the cleaned raw data as new csv file using "write.csv" function.
+7. Finally, saved the cleaned raw data as new csv file using "write.csv" function. Download the cleaned data file from here--> [Download cleaned data](https://www.dropbox.com/scl/fi/0r7l51g9rkjfwaje9qcus/cleaned_data.csv?rlkey=oxds7g2l65suee3msnoi5zbb0&st=q7d5qqjf&dl=0)
 
 ## EDA & Data Analysis
 In EDA & data analysis, I performed the below steps:
@@ -53,3 +53,4 @@ The main findings of my analysis are as below-
 2. This project is intended for personal portfolio and learning. No raw HTML or commercial redistribution is involved.
 
 ## Sample Dashboard Preview
+
