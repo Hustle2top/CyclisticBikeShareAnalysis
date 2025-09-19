@@ -39,7 +39,7 @@ In EDA & data analysis, I performed the below steps:
 The main findings of my analysis are as below-
 1. The weekly ride pattern analysis, tells that subscribers mainly use Cyclistic services on weekdays, whereas non-subscribers use rides mainly on weekends i.e. Saturday & Sunday.
 2. The most number of rides are happening in the Afternoon (12PM-6PM) & Morning (6AM-12PM) time slots for both type of users.
-3. The average ride duration for subscribers is 31 minutes, whereas for non-subscribers it is just 11 minutes. Overall ride duration is between 11-12 minutes.
+3. The average ride duration for subscribers is 31 minutes, whereas for non-subscribers it is just 11 minutes. Overall average ride duration is between 11-12 minutes.
 4. Most riders fall in the age bracket of 26-35 years of age, for both type of users.
 5. The busiest station by total no. of rides originating is "Clinton St & Washington   Blvd".
 6. The busiest route by total no. of rides is between "Michigan Ave & Washington St." and "Clinton St & Washington Blvd".
