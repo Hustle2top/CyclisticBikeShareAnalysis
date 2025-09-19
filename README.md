@@ -53,5 +53,5 @@ The main findings of my analysis are as below-
 2. This project is intended for personal portfolio and learning. No raw HTML or commercial redistribution is involved.
 
 ## Sample Dashboard Preview
-[](<img width="1391" height="778" alt="Final_Visual" src="https://github.com/user-attachments/assets/5214e643-63a4-4425-8d06-40b390afaa57" />)
+
 
