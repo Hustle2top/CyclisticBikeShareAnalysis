@@ -8,11 +8,11 @@ This repository includes the Data Analysis & related files/docs, for a bike shar
 The dataset used for this analysis can be downloaded by following the link provided in this PDF file--> (). It has been downloaded in the csv format, consisting of 365070 rows and 12 columns originally(without cleaning).
 
 ## Tools Used
-CSV File (Original data file)
-R Studio (Data Cleaning)
-R Studio (Data Exploration/EDA)
-Power BI (Data Modelling & Visualization)
-Power Point (Reporting & summary)
+1. CSV File (Original data file)
+2. R Studio (Data Cleaning)
+3. R Studio (Data Exploration/EDA)
+4. Power BI (Data Modelling & Visualization)
+5. Power Point (Reporting & summary)
 
 ## Data Cleaning & Preparation
 In the initial data preparation phase, I performed below steps:
