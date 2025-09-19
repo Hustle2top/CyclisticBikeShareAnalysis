@@ -5,10 +5,10 @@ This repository includes the Data Analysis of the trips data for Cyclistic (a bi
 This repository includes the Data Analysis & related files/docs, for a bike sharing company called "Cyclistic" based in the US. The raw data has been downloaded directly via the link provided in the PDF file for Cyclistic case study capstone project overview, in the Google Data analytics certificate course by Coursera. The file used for this analysis is named as "Divvy_Trips_2019_Q1". This file includes data for all the trips that occurred in the first quarter (Q1) only, for the year 2019. This project aims at analyzing the trips data and find ways to convert casual riders into subscribers who subscribe the annual/monthly plans from Cyclistic. In this dataset, the casual riders have been represented as "Customer", whereas the Subscribers have been represented as "Subscriber" in the usertype column.
 
 ## Data Source
-The dataset used for this analysis can be downloaded by following the link provided in this PDF file--> (). It has been downloaded in the csv format, consisting of 365070 rows and 12 columns originally(without cleaning).
+The dataset used for this analysis can be downloaded by following the link --> [Download excel file](Divvy_Trips_2019_Q1.xlsx). It is in the xlsx format, consisting of 365070 rows and 12 columns originally(without cleaning).
 
 ## Tools Used
-1. CSV File (Original data file)
+1. Microsoft excel (Raw data)
 2. R Studio (Data Cleaning)
 3. R Studio (Data Exploration/EDA)
 4. Power BI (Data Modelling & Visualization)
