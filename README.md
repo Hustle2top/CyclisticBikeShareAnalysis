@@ -10,7 +10,7 @@ The dataset used for this analysis can be downloaded by following the link --> [
 ## Tools Used
 1. Microsoft excel (Raw data)
 2. R Studio (Data Cleaning)
-3. R Studio (Data Exploration/EDA)
+3. R Studio (Data Exploration/EDA & Data Analysis)
 4. Power BI (Data Modelling & Visualization)
 5. Power Point (Reporting & summary)
 
